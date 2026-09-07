@@ -1,0 +1,1 @@
+V0.2 uses layered vector placeholders for the wardrobe renderer. Replace each vector layer with aligned transparent PNG assets as final art becomes available.
